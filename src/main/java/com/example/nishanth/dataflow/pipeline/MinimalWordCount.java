@@ -1,4 +1,4 @@
-package com.example.nishanth.dataflow;
+package com.example.nishanth.dataflow.pipeline;
 
 import com.google.cloud.dataflow.sdk.Pipeline;
 import com.google.cloud.dataflow.sdk.io.TextIO;
